@@ -1,8 +1,8 @@
 html{
     background-color: hsl(212, 45%, 89%);
     align-items: center;
-    display: flex
-    justify-content: center;
+    display: flex;
+    justify-content: 100px;
 }
 
 body {
